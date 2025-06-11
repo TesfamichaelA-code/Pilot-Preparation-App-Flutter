@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = 'http://127.0.0.1:5000/';
+  static const String baseUrl = 'http://your pc host ip address:5000/';
   
   // Auth endpoints
   static const String login = '/auth/login';
